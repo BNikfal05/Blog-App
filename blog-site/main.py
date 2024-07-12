@@ -12,7 +12,7 @@ Technologies Employed:
     - HTML: Structure of the website
     - CSS: Styling the website
     - JavaScript: Navbar functionality
-    - Bootstrap: CSS framework for reusable code
+    - Bootstrap: CSS framework for reusable code and borrowed example design
     - Flask: Web framework
     - Jinja: Template engine
     - SMTPLib: Sending contact emails
