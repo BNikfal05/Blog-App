@@ -1,12 +1,5 @@
 '''
 ======================================================================================
-
-In an era where programming knowledge is widespread, starting another blog might seem 
-mundane to some. However, this blog was developed as part of the creator’s journey 
-through the myriad of technologies encountered in the web development landscape. The 
-creator is a tenacious and self-driven individual, aware of his shortcomings, and 
-constantly seeks to improve his knowledge in any field he chooses to explore.
-
 Technologies Employed:
     - Python: Main language for implementation
     - HTML: Structure of the website
